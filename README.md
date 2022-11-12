@@ -11,3 +11,4 @@ The game of Tetris made to run in the CMD window. Screen size must be 120x30 bef
 * std::chrono
 * Game Logic
 * swprintf_s
+* Control inputs
